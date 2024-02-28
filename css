@@ -1,0 +1,9 @@
+/*selector {
+    propriedade: valor;
+}  */
+
+html {
+    text-align: 25px;
+    color: rgb(167, 167, 167);
+    background-color: rgb(31, 27, 27);
+}
